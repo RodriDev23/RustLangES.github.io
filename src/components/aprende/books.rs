@@ -144,5 +144,5 @@ fn Book(
                 </div>
             </div>
         </article>
-        }
+    }
 }
